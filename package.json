@@ -1,7 +1,7 @@
 {
   "name": "@mdxh/vueuse-core",
-  "version": "0.0.1-ldkfjl",
-  "private": true,
+  "version": "0.1.1",
+  "private": false,
   "author": "DEVxHUB",
   "description": "Install VueUse to vue3 using dxh wrapper",
   "license": "MIT",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@vueuse/core": "^10.11.0",
-    "vue": "^3.0.1"
+    "vue": "^3.4.29"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.8.0",
